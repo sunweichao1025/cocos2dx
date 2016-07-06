@@ -1,6 +1,8 @@
 #ifndef __HELLOWORLD_SCENE_H__
 #define __HELLOWORLD_SCENE_H__
 
+
+
 #include "cocos2d.h"
 #include "cocos-ext.h"
 #include "network/HttpClient.h"
